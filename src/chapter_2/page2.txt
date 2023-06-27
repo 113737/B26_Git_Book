@@ -1,0 +1,5 @@
+Git is a version control system that allows developers to manage and track changes made to their code during the software development process. It was created by Linus Torvalds in 2005 and is used by developers worldwide.
+
+GitHub is a web-based platform used to host and share Git repositories. It offers collaboration and version control via features like pull requests, merge requests, and issues. Developers can collaborate on the same codebase, review and merge each other's code, and keep track of any bugs or issues that arise.
+
+The difference between Git and GitHub is that Git is a standalone software that can be used without an internet connection, whereas GitHub is a cloud-based service that requires an internet connection. Git allows developers to manage their local repositories, whereas GitHub provides a centralized location for storing, managing, and collaborating on repositories. In short, Git is a tool, while GitHub is an online repository hosting service.
